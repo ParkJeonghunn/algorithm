@@ -9,3 +9,4 @@ elif h ==0 and m>=45:
     print(h, m-45)
 else:
     print(23, 60-(45-m))
+    
